@@ -1,2 +1,2 @@
 #!/bin/bash
-edit me
+alias [-p] [name="ls"] rm *
