@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # comment
 x=0
-until [$x -gt 9]
+until [ $x -gt 9 ]
 do 
 	echo "Best School" 
 	((x++))
